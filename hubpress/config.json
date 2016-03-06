@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "3kento",
-    "repositoryName": "3kento.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"3kento","repositoryName":"3kento.github.io","branch":"master"},"site":{"title":"Kento","description":"Kento","logo":"Kento","url":"https://3kento.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//3kento.github.io/themes/Casper"}}
